@@ -1,1 +1,8 @@
-Hi this is a test
+#include iostream>
+using namespace std; 
+int main(){
+    int x;
+    cout<< "This is a test, enter your name:";
+    cin>>x;
+ return 0;
+}
